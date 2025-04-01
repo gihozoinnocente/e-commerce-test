@@ -1,4 +1,4 @@
-# Product Catalog API
+# E-commerce
 
 A RESTful API for a product catalog system that powers an e-commerce platform. This project allows businesses to manage their product offerings with features like product management, categorization, inventory tracking, reporting, and role-based access control.
 
